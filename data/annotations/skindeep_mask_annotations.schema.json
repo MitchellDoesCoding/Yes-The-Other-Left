@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SkinDeep-542 inference-time mask annotations",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["image_id", "mask_preset", "right_mask_pct", "bottom_mask_pct", "mask_color"],
+    "properties": {
+      "image_id": {"type": "string", "pattern": "^DLB_[0-9]{8}$"},
+      "filename": {"type": "string"},
+      "manifest_master_filename": {"type": "string"},
+      "mask_preset": {"enum": ["none", "bottom", "right", "both"]},
+      "right_mask_pct": {"type": "number", "minimum": 0, "maximum": 100},
+      "bottom_mask_pct": {"type": "number", "minimum": 0, "maximum": 100},
+      "mask_color": {"enum": ["neutral_gray", "black", "white"]},
+      "artifact_location": {"type": "string"},
+      "annotation_complete": {"type": ["string", "boolean"]}
+    },
+    "additionalProperties": true
+  }
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository or dataset annotations, please cite this work."
+title: "YES, THE OTHER LEFT: Testing Physical AI Models on Human-Centered Reference Frames"
+type: conference-paper
+keywords:
+  - SkinDeep-542
+  - laterality
+  - vision-language models
+  - clinical images
+authors:
+  - family-names: Liu
+    given-names: Mitchell H.
+  - family-names: Reddy
+    given-names: Subba Oota
+conference:
+  name: "MIT IEEE Undergraduate Technology Conference 2026"
+date-published: 2026-10
+year: 2026

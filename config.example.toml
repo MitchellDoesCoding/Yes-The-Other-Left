@@ -1,0 +1,19 @@
+[dataset]
+image_dir = "data/raw/skindeep"
+ground_truth_csv = "data/annotations/SkinDeep_ground_truth_complete.csv"
+mask_annotations_json = "data/annotations/skindeep_mask_annotations_export.json"
+permission_manifest_csv = "data/manifests/skindeep_permission_request_filenames.csv"
+
+[inference]
+base_url = "http://127.0.0.1:1234/v1"
+model = "replace-with-model-id"
+api_key_env = "VLM_API_KEY"
+prompt_style = "landmark_justified"
+repeats = 5
+temperature = 0.0
+max_tokens = 512
+timeout_seconds = 180
+include_mirror = true
+
+[output]
+run_dir = "runs/example_run"

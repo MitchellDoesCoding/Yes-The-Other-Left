@@ -1,0 +1,5422 @@
+[
+  {
+    "image_id": "DLB_00011822",
+    "filename": "images/DLB_00011822.jpg",
+    "manifest_master_filename": "DLB_00011822.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011823",
+    "filename": "images/DLB_00011823.jpg",
+    "manifest_master_filename": "DLB_00011823.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011824",
+    "filename": "images/DLB_00011824.jpg",
+    "manifest_master_filename": "DLB_00011824.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011825",
+    "filename": "images/DLB_00011825.jpg",
+    "manifest_master_filename": "DLB_00011825.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011826",
+    "filename": "images/DLB_00011826.jpg",
+    "manifest_master_filename": "DLB_00011826.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011827",
+    "filename": "images/DLB_00011827.jpg",
+    "manifest_master_filename": "DLB_00011827.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 34,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011828",
+    "filename": "images/DLB_00011828.jpg",
+    "manifest_master_filename": "DLB_00011828.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011829",
+    "filename": "images/DLB_00011829.jpg",
+    "manifest_master_filename": "DLB_00011829.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011830",
+    "filename": "images/DLB_00011830.jpg",
+    "manifest_master_filename": "DLB_00011830.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011831",
+    "filename": "images/DLB_00011831.jpg",
+    "manifest_master_filename": "DLB_00011831.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011832",
+    "filename": "images/DLB_00011832.jpg",
+    "manifest_master_filename": "DLB_00011832.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011833",
+    "filename": "images/DLB_00011833.jpg",
+    "manifest_master_filename": "DLB_00011833.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011834",
+    "filename": "images/DLB_00011834.jpg",
+    "manifest_master_filename": "DLB_00011834.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011835",
+    "filename": "images/DLB_00011835.jpg",
+    "manifest_master_filename": "DLB_00011835.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011836",
+    "filename": "images/DLB_00011836.jpg",
+    "manifest_master_filename": "DLB_00011836.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 15,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011837",
+    "filename": "images/DLB_00011837.jpg",
+    "manifest_master_filename": "DLB_00011837.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011838",
+    "filename": "images/DLB_00011838.jpg",
+    "manifest_master_filename": "DLB_00011838.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011839",
+    "filename": "images/DLB_00011839.jpg",
+    "manifest_master_filename": "DLB_00011839.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011840",
+    "filename": "images/DLB_00011840.jpg",
+    "manifest_master_filename": "DLB_00011840.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011841",
+    "filename": "images/DLB_00011841.jpg",
+    "manifest_master_filename": "DLB_00011841.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011842",
+    "filename": "images/DLB_00011842.jpg",
+    "manifest_master_filename": "DLB_00011842.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011843",
+    "filename": "images/DLB_00011843.jpg",
+    "manifest_master_filename": "DLB_00011843.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011844",
+    "filename": "images/DLB_00011844.jpg",
+    "manifest_master_filename": "DLB_00011844.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011845",
+    "filename": "images/DLB_00011845.jpg",
+    "manifest_master_filename": "DLB_00011845.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011846",
+    "filename": "images/DLB_00011846.jpg",
+    "manifest_master_filename": "DLB_00011846.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011847",
+    "filename": "images/DLB_00011847.jpg",
+    "manifest_master_filename": "DLB_00011847.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011848",
+    "filename": "images/DLB_00011848.jpg",
+    "manifest_master_filename": "DLB_00011848.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011849",
+    "filename": "images/DLB_00011849.jpg",
+    "manifest_master_filename": "DLB_00011849.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011850",
+    "filename": "images/DLB_00011850.jpg",
+    "manifest_master_filename": "DLB_00011850.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011851",
+    "filename": "images/DLB_00011851.jpg",
+    "manifest_master_filename": "DLB_00011851.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011852",
+    "filename": "images/DLB_00011852.jpg",
+    "manifest_master_filename": "DLB_00011852.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011853",
+    "filename": "images/DLB_00011853.jpg",
+    "manifest_master_filename": "DLB_00011853.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011854",
+    "filename": "images/DLB_00011854.jpg",
+    "manifest_master_filename": "DLB_00011854.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011855",
+    "filename": "images/DLB_00011855.jpg",
+    "manifest_master_filename": "DLB_00011855.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011856",
+    "filename": "images/DLB_00011856.jpg",
+    "manifest_master_filename": "DLB_00011856.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011857",
+    "filename": "images/DLB_00011857.jpg",
+    "manifest_master_filename": "DLB_00011857.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011858",
+    "filename": "images/DLB_00011858.jpg",
+    "manifest_master_filename": "DLB_00011858.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011859",
+    "filename": "images/DLB_00011859.jpg",
+    "manifest_master_filename": "DLB_00011859.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011860",
+    "filename": "images/DLB_00011860.jpg",
+    "manifest_master_filename": "DLB_00011860.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011861",
+    "filename": "images/DLB_00011861.jpg",
+    "manifest_master_filename": "DLB_00011861.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011862",
+    "filename": "images/DLB_00011862.jpg",
+    "manifest_master_filename": "DLB_00011862.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011863",
+    "filename": "images/DLB_00011863.jpg",
+    "manifest_master_filename": "DLB_00011863.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011864",
+    "filename": "images/DLB_00011864.jpg",
+    "manifest_master_filename": "DLB_00011864.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011865",
+    "filename": "images/DLB_00011865.jpg",
+    "manifest_master_filename": "DLB_00011865.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011866",
+    "filename": "images/DLB_00011866.jpg",
+    "manifest_master_filename": "DLB_00011866.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011867",
+    "filename": "images/DLB_00011867.jpg",
+    "manifest_master_filename": "DLB_00011867.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011868",
+    "filename": "images/DLB_00011868.jpg",
+    "manifest_master_filename": "DLB_00011868.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011869",
+    "filename": "images/DLB_00011869.jpg",
+    "manifest_master_filename": "DLB_00011869.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011870",
+    "filename": "images/DLB_00011870.jpg",
+    "manifest_master_filename": "DLB_00011870.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011871",
+    "filename": "images/DLB_00011871.jpg",
+    "manifest_master_filename": "DLB_00011871.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011872",
+    "filename": "images/DLB_00011872.jpg",
+    "manifest_master_filename": "DLB_00011872.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011873",
+    "filename": "images/DLB_00011873.jpg",
+    "manifest_master_filename": "DLB_00011873.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011874",
+    "filename": "images/DLB_00011874.jpg",
+    "manifest_master_filename": "DLB_00011874.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011875",
+    "filename": "images/DLB_00011875.jpg",
+    "manifest_master_filename": "DLB_00011875.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011876",
+    "filename": "images/DLB_00011876.jpg",
+    "manifest_master_filename": "DLB_00011876.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011877",
+    "filename": "images/DLB_00011877.jpg",
+    "manifest_master_filename": "DLB_00011877.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011878",
+    "filename": "images/DLB_00011878.jpg",
+    "manifest_master_filename": "DLB_00011878.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011879",
+    "filename": "images/DLB_00011879.jpg",
+    "manifest_master_filename": "DLB_00011879.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011880",
+    "filename": "images/DLB_00011880.jpg",
+    "manifest_master_filename": "DLB_00011880.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011881",
+    "filename": "images/DLB_00011881.jpg",
+    "manifest_master_filename": "DLB_00011881.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011882",
+    "filename": "images/DLB_00011882.jpg",
+    "manifest_master_filename": "DLB_00011882.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011883",
+    "filename": "images/DLB_00011883.jpg",
+    "manifest_master_filename": "DLB_00011883.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011884",
+    "filename": "images/DLB_00011884.jpg",
+    "manifest_master_filename": "DLB_00011884.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011885",
+    "filename": "images/DLB_00011885.jpg",
+    "manifest_master_filename": "DLB_00011885.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011886",
+    "filename": "images/DLB_00011886.jpg",
+    "manifest_master_filename": "DLB_00011886.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011887",
+    "filename": "images/DLB_00011887.jpg",
+    "manifest_master_filename": "DLB_00011887.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011888",
+    "filename": "images/DLB_00011888.jpg",
+    "manifest_master_filename": "DLB_00011888.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011889",
+    "filename": "images/DLB_00011889.jpg",
+    "manifest_master_filename": "DLB_00011889.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011890",
+    "filename": "images/DLB_00011890.jpg",
+    "manifest_master_filename": "DLB_00011890.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011891",
+    "filename": "images/DLB_00011891.jpg",
+    "manifest_master_filename": "DLB_00011891.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011892",
+    "filename": "images/DLB_00011892.jpg",
+    "manifest_master_filename": "DLB_00011892.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011893",
+    "filename": "images/DLB_00011893.jpg",
+    "manifest_master_filename": "DLB_00011893.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011894",
+    "filename": "images/DLB_00011894.jpg",
+    "manifest_master_filename": "DLB_00011894.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011895",
+    "filename": "images/DLB_00011895.jpg",
+    "manifest_master_filename": "DLB_00011895.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011896",
+    "filename": "images/DLB_00011896.jpg",
+    "manifest_master_filename": "DLB_00011896.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011897",
+    "filename": "images/DLB_00011897.jpg",
+    "manifest_master_filename": "DLB_00011897.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011898",
+    "filename": "images/DLB_00011898.jpg",
+    "manifest_master_filename": "DLB_00011898.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011899",
+    "filename": "images/DLB_00011899.jpg",
+    "manifest_master_filename": "DLB_00011899.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011900",
+    "filename": "images/DLB_00011900.jpg",
+    "manifest_master_filename": "DLB_00011900.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011901",
+    "filename": "images/DLB_00011901.jpg",
+    "manifest_master_filename": "DLB_00011901.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011902",
+    "filename": "images/DLB_00011902.jpg",
+    "manifest_master_filename": "DLB_00011902.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011903",
+    "filename": "images/DLB_00011903.jpg",
+    "manifest_master_filename": "DLB_00011903.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011904",
+    "filename": "images/DLB_00011904.jpg",
+    "manifest_master_filename": "DLB_00011904.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011905",
+    "filename": "images/DLB_00011905.jpg",
+    "manifest_master_filename": "DLB_00011905.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011906",
+    "filename": "images/DLB_00011906.jpg",
+    "manifest_master_filename": "DLB_00011906.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011907",
+    "filename": "images/DLB_00011907.jpg",
+    "manifest_master_filename": "DLB_00011907.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011908",
+    "filename": "images/DLB_00011908.jpg",
+    "manifest_master_filename": "DLB_00011908.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011909",
+    "filename": "images/DLB_00011909.jpg",
+    "manifest_master_filename": "DLB_00011909.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011910",
+    "filename": "images/DLB_00011910.jpg",
+    "manifest_master_filename": "DLB_00011910.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011911",
+    "filename": "images/DLB_00011911.jpg",
+    "manifest_master_filename": "DLB_00011911.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011912",
+    "filename": "images/DLB_00011912.jpg",
+    "manifest_master_filename": "DLB_00011912.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011913",
+    "filename": "images/DLB_00011913.jpg",
+    "manifest_master_filename": "DLB_00011913.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011914",
+    "filename": "images/DLB_00011914.jpg",
+    "manifest_master_filename": "DLB_00011914.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011915",
+    "filename": "images/DLB_00011915.jpg",
+    "manifest_master_filename": "DLB_00011915.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011916",
+    "filename": "images/DLB_00011916.jpg",
+    "manifest_master_filename": "DLB_00011916.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011917",
+    "filename": "images/DLB_00011917.jpg",
+    "manifest_master_filename": "DLB_00011917.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011918",
+    "filename": "images/DLB_00011918.jpg",
+    "manifest_master_filename": "DLB_00011918.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011919",
+    "filename": "images/DLB_00011919.jpg",
+    "manifest_master_filename": "DLB_00011919.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011920",
+    "filename": "images/DLB_00011920.jpg",
+    "manifest_master_filename": "DLB_00011920.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011921",
+    "filename": "images/DLB_00011921.jpg",
+    "manifest_master_filename": "DLB_00011921.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011922",
+    "filename": "images/DLB_00011922.jpg",
+    "manifest_master_filename": "DLB_00011922.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011923",
+    "filename": "images/DLB_00011923.jpg",
+    "manifest_master_filename": "DLB_00011923.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011924",
+    "filename": "images/DLB_00011924.jpg",
+    "manifest_master_filename": "DLB_00011924.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011925",
+    "filename": "images/DLB_00011925.jpg",
+    "manifest_master_filename": "DLB_00011925.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011926",
+    "filename": "images/DLB_00011926.jpg",
+    "manifest_master_filename": "DLB_00011926.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011927",
+    "filename": "images/DLB_00011927.jpg",
+    "manifest_master_filename": "DLB_00011927.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011928",
+    "filename": "images/DLB_00011928.jpg",
+    "manifest_master_filename": "DLB_00011928.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011929",
+    "filename": "images/DLB_00011929.jpg",
+    "manifest_master_filename": "DLB_00011929.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011930",
+    "filename": "images/DLB_00011930.jpg",
+    "manifest_master_filename": "DLB_00011930.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011931",
+    "filename": "images/DLB_00011931.jpg",
+    "manifest_master_filename": "DLB_00011931.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011932",
+    "filename": "images/DLB_00011932.jpg",
+    "manifest_master_filename": "DLB_00011932.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011933",
+    "filename": "images/DLB_00011933.jpg",
+    "manifest_master_filename": "DLB_00011933.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011934",
+    "filename": "images/DLB_00011934.jpg",
+    "manifest_master_filename": "DLB_00011934.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011935",
+    "filename": "images/DLB_00011935.jpg",
+    "manifest_master_filename": "DLB_00011935.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011936",
+    "filename": "images/DLB_00011936.jpg",
+    "manifest_master_filename": "DLB_00011936.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011937",
+    "filename": "images/DLB_00011937.jpg",
+    "manifest_master_filename": "DLB_00011937.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011938",
+    "filename": "images/DLB_00011938.jpg",
+    "manifest_master_filename": "DLB_00011938.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011939",
+    "filename": "images/DLB_00011939.jpg",
+    "manifest_master_filename": "DLB_00011939.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011940",
+    "filename": "images/DLB_00011940.jpg",
+    "manifest_master_filename": "DLB_00011940.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011941",
+    "filename": "images/DLB_00011941.jpg",
+    "manifest_master_filename": "DLB_00011941.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011942",
+    "filename": "images/DLB_00011942.jpg",
+    "manifest_master_filename": "DLB_00011942.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011943",
+    "filename": "images/DLB_00011943.jpg",
+    "manifest_master_filename": "DLB_00011943.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011944",
+    "filename": "images/DLB_00011944.jpg",
+    "manifest_master_filename": "DLB_00011944.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011945",
+    "filename": "images/DLB_00011945.jpg",
+    "manifest_master_filename": "DLB_00011945.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011946",
+    "filename": "images/DLB_00011946.jpg",
+    "manifest_master_filename": "DLB_00011946.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011947",
+    "filename": "images/DLB_00011947.jpg",
+    "manifest_master_filename": "DLB_00011947.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011948",
+    "filename": "images/DLB_00011948.jpg",
+    "manifest_master_filename": "DLB_00011948.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011949",
+    "filename": "images/DLB_00011949.jpg",
+    "manifest_master_filename": "DLB_00011949.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011950",
+    "filename": "images/DLB_00011950.jpg",
+    "manifest_master_filename": "DLB_00011950.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011951",
+    "filename": "images/DLB_00011951.jpg",
+    "manifest_master_filename": "DLB_00011951.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011952",
+    "filename": "images/DLB_00011952.jpg",
+    "manifest_master_filename": "DLB_00011952.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011953",
+    "filename": "images/DLB_00011953.jpg",
+    "manifest_master_filename": "DLB_00011953.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011954",
+    "filename": "images/DLB_00011954.jpg",
+    "manifest_master_filename": "DLB_00011954.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011955",
+    "filename": "images/DLB_00011955.jpg",
+    "manifest_master_filename": "DLB_00011955.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011956",
+    "filename": "images/DLB_00011956.jpg",
+    "manifest_master_filename": "DLB_00011956.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011957",
+    "filename": "images/DLB_00011957.jpg",
+    "manifest_master_filename": "DLB_00011957.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011958",
+    "filename": "images/DLB_00011958.jpg",
+    "manifest_master_filename": "DLB_00011958.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011959",
+    "filename": "images/DLB_00011959.jpg",
+    "manifest_master_filename": "DLB_00011959.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011960",
+    "filename": "images/DLB_00011960.jpg",
+    "manifest_master_filename": "DLB_00011960.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011961",
+    "filename": "images/DLB_00011961.jpg",
+    "manifest_master_filename": "DLB_00011961.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011962",
+    "filename": "images/DLB_00011962.jpg",
+    "manifest_master_filename": "DLB_00011962.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011963",
+    "filename": "images/DLB_00011963.jpg",
+    "manifest_master_filename": "DLB_00011963.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011964",
+    "filename": "images/DLB_00011964.jpg",
+    "manifest_master_filename": "DLB_00011964.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011965",
+    "filename": "images/DLB_00011965.jpg",
+    "manifest_master_filename": "DLB_00011965.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011966",
+    "filename": "images/DLB_00011966.jpg",
+    "manifest_master_filename": "DLB_00011966.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011967",
+    "filename": "images/DLB_00011967.jpg",
+    "manifest_master_filename": "DLB_00011967.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011968",
+    "filename": "images/DLB_00011968.jpg",
+    "manifest_master_filename": "DLB_00011968.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011969",
+    "filename": "images/DLB_00011969.jpg",
+    "manifest_master_filename": "DLB_00011969.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011970",
+    "filename": "images/DLB_00011970.jpg",
+    "manifest_master_filename": "DLB_00011970.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011971",
+    "filename": "images/DLB_00011971.jpg",
+    "manifest_master_filename": "DLB_00011971.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011972",
+    "filename": "images/DLB_00011972.jpg",
+    "manifest_master_filename": "DLB_00011972.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011973",
+    "filename": "images/DLB_00011973.jpg",
+    "manifest_master_filename": "DLB_00011973.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011974",
+    "filename": "images/DLB_00011974.jpg",
+    "manifest_master_filename": "DLB_00011974.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011975",
+    "filename": "images/DLB_00011975.jpg",
+    "manifest_master_filename": "DLB_00011975.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011976",
+    "filename": "images/DLB_00011976.jpg",
+    "manifest_master_filename": "DLB_00011976.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011977",
+    "filename": "images/DLB_00011977.jpg",
+    "manifest_master_filename": "DLB_00011977.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011978",
+    "filename": "images/DLB_00011978.jpg",
+    "manifest_master_filename": "DLB_00011978.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011979",
+    "filename": "images/DLB_00011979.jpg",
+    "manifest_master_filename": "DLB_00011979.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011980",
+    "filename": "images/DLB_00011980.jpg",
+    "manifest_master_filename": "DLB_00011980.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011981",
+    "filename": "images/DLB_00011981.jpg",
+    "manifest_master_filename": "DLB_00011981.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011982",
+    "filename": "images/DLB_00011982.jpg",
+    "manifest_master_filename": "DLB_00011982.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011983",
+    "filename": "images/DLB_00011983.jpg",
+    "manifest_master_filename": "DLB_00011983.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011984",
+    "filename": "images/DLB_00011984.jpg",
+    "manifest_master_filename": "DLB_00011984.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011985",
+    "filename": "images/DLB_00011985.jpg",
+    "manifest_master_filename": "DLB_00011985.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011986",
+    "filename": "images/DLB_00011986.jpg",
+    "manifest_master_filename": "DLB_00011986.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011987",
+    "filename": "images/DLB_00011987.jpg",
+    "manifest_master_filename": "DLB_00011987.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011988",
+    "filename": "images/DLB_00011988.jpg",
+    "manifest_master_filename": "DLB_00011988.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011989",
+    "filename": "images/DLB_00011989.jpg",
+    "manifest_master_filename": "DLB_00011989.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011990",
+    "filename": "images/DLB_00011990.jpg",
+    "manifest_master_filename": "DLB_00011990.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011991",
+    "filename": "images/DLB_00011991.jpg",
+    "manifest_master_filename": "DLB_00011991.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011992",
+    "filename": "images/DLB_00011992.jpg",
+    "manifest_master_filename": "DLB_00011992.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011993",
+    "filename": "images/DLB_00011993.jpg",
+    "manifest_master_filename": "DLB_00011993.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011994",
+    "filename": "images/DLB_00011994.jpg",
+    "manifest_master_filename": "DLB_00011994.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011995",
+    "filename": "images/DLB_00011995.jpg",
+    "manifest_master_filename": "DLB_00011995.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011996",
+    "filename": "images/DLB_00011996.jpg",
+    "manifest_master_filename": "DLB_00011996.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011997",
+    "filename": "images/DLB_00011997.jpg",
+    "manifest_master_filename": "DLB_00011997.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011998",
+    "filename": "images/DLB_00011998.jpg",
+    "manifest_master_filename": "DLB_00011998.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00011999",
+    "filename": "images/DLB_00011999.jpg",
+    "manifest_master_filename": "DLB_00011999.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012000",
+    "filename": "images/DLB_00012000.jpg",
+    "manifest_master_filename": "DLB_00012000.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012001",
+    "filename": "images/DLB_00012001.jpg",
+    "manifest_master_filename": "DLB_00012001.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012002",
+    "filename": "images/DLB_00012002.jpg",
+    "manifest_master_filename": "DLB_00012002.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012003",
+    "filename": "images/DLB_00012003.jpg",
+    "manifest_master_filename": "DLB_00012003.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012004",
+    "filename": "images/DLB_00012004.jpg",
+    "manifest_master_filename": "DLB_00012004.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012005",
+    "filename": "images/DLB_00012005.jpg",
+    "manifest_master_filename": "DLB_00012005.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012006",
+    "filename": "images/DLB_00012006.jpg",
+    "manifest_master_filename": "DLB_00012006.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012007",
+    "filename": "images/DLB_00012007.jpg",
+    "manifest_master_filename": "DLB_00012007.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012008",
+    "filename": "images/DLB_00012008.jpg",
+    "manifest_master_filename": "DLB_00012008.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012009",
+    "filename": "images/DLB_00012009.jpg",
+    "manifest_master_filename": "DLB_00012009.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012010",
+    "filename": "images/DLB_00012010.jpg",
+    "manifest_master_filename": "DLB_00012010.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012011",
+    "filename": "images/DLB_00012011.jpg",
+    "manifest_master_filename": "DLB_00012011.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012012",
+    "filename": "images/DLB_00012012.jpg",
+    "manifest_master_filename": "DLB_00012012.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012013",
+    "filename": "images/DLB_00012013.jpg",
+    "manifest_master_filename": "DLB_00012013.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012014",
+    "filename": "images/DLB_00012014.jpg",
+    "manifest_master_filename": "DLB_00012014.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012015",
+    "filename": "images/DLB_00012015.jpg",
+    "manifest_master_filename": "DLB_00012015.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012016",
+    "filename": "images/DLB_00012016.jpg",
+    "manifest_master_filename": "DLB_00012016.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012017",
+    "filename": "images/DLB_00012017.jpg",
+    "manifest_master_filename": "DLB_00012017.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012018",
+    "filename": "images/DLB_00012018.jpg",
+    "manifest_master_filename": "DLB_00012018.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012019",
+    "filename": "images/DLB_00012019.jpg",
+    "manifest_master_filename": "DLB_00012019.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012020",
+    "filename": "images/DLB_00012020.jpg",
+    "manifest_master_filename": "DLB_00012020.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012021",
+    "filename": "images/DLB_00012021.jpg",
+    "manifest_master_filename": "DLB_00012021.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012022",
+    "filename": "images/DLB_00012022.jpg",
+    "manifest_master_filename": "DLB_00012022.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012023",
+    "filename": "images/DLB_00012023.jpg",
+    "manifest_master_filename": "DLB_00012023.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012024",
+    "filename": "images/DLB_00012024.jpg",
+    "manifest_master_filename": "DLB_00012024.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 16,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012025",
+    "filename": "images/DLB_00012025.jpg",
+    "manifest_master_filename": "DLB_00012025.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012026",
+    "filename": "images/DLB_00012026.jpg",
+    "manifest_master_filename": "DLB_00012026.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012027",
+    "filename": "images/DLB_00012027.jpg",
+    "manifest_master_filename": "DLB_00012027.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012028",
+    "filename": "images/DLB_00012028.jpg",
+    "manifest_master_filename": "DLB_00012028.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012029",
+    "filename": "images/DLB_00012029.jpg",
+    "manifest_master_filename": "DLB_00012029.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012030",
+    "filename": "images/DLB_00012030.jpg",
+    "manifest_master_filename": "DLB_00012030.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 11,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012031",
+    "filename": "images/DLB_00012031.jpg",
+    "manifest_master_filename": "DLB_00012031.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012032",
+    "filename": "images/DLB_00012032.jpg",
+    "manifest_master_filename": "DLB_00012032.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012033",
+    "filename": "images/DLB_00012033.jpg",
+    "manifest_master_filename": "DLB_00012033.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012034",
+    "filename": "images/DLB_00012034.jpg",
+    "manifest_master_filename": "DLB_00012034.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012035",
+    "filename": "images/DLB_00012035.jpg",
+    "manifest_master_filename": "DLB_00012035.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012036",
+    "filename": "images/DLB_00012036.jpg",
+    "manifest_master_filename": "DLB_00012036.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012037",
+    "filename": "images/DLB_00012037.jpg",
+    "manifest_master_filename": "DLB_00012037.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012038",
+    "filename": "images/DLB_00012038.jpg",
+    "manifest_master_filename": "DLB_00012038.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012039",
+    "filename": "images/DLB_00012039.jpg",
+    "manifest_master_filename": "DLB_00012039.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012040",
+    "filename": "images/DLB_00012040.jpg",
+    "manifest_master_filename": "DLB_00012040.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012041",
+    "filename": "images/DLB_00012041.jpg",
+    "manifest_master_filename": "DLB_00012041.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012042",
+    "filename": "images/DLB_00012042.jpg",
+    "manifest_master_filename": "DLB_00012042.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012043",
+    "filename": "images/DLB_00012043.jpg",
+    "manifest_master_filename": "DLB_00012043.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012044",
+    "filename": "images/DLB_00012044.jpg",
+    "manifest_master_filename": "DLB_00012044.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012045",
+    "filename": "images/DLB_00012045.jpg",
+    "manifest_master_filename": "DLB_00012045.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012046",
+    "filename": "images/DLB_00012046.jpg",
+    "manifest_master_filename": "DLB_00012046.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012047",
+    "filename": "images/DLB_00012047.jpg",
+    "manifest_master_filename": "DLB_00012047.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012048",
+    "filename": "images/DLB_00012048.jpg",
+    "manifest_master_filename": "DLB_00012048.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012049",
+    "filename": "images/DLB_00012049.jpg",
+    "manifest_master_filename": "DLB_00012049.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012050",
+    "filename": "images/DLB_00012050.jpg",
+    "manifest_master_filename": "DLB_00012050.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 13,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012051",
+    "filename": "images/DLB_00012051.jpg",
+    "manifest_master_filename": "DLB_00012051.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012052",
+    "filename": "images/DLB_00012052.jpg",
+    "manifest_master_filename": "DLB_00012052.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012053",
+    "filename": "images/DLB_00012053.jpg",
+    "manifest_master_filename": "DLB_00012053.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012054",
+    "filename": "images/DLB_00012054.jpg",
+    "manifest_master_filename": "DLB_00012054.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012055",
+    "filename": "images/DLB_00012055.jpg",
+    "manifest_master_filename": "DLB_00012055.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012056",
+    "filename": "images/DLB_00012056.jpg",
+    "manifest_master_filename": "DLB_00012056.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012057",
+    "filename": "images/DLB_00012057.jpg",
+    "manifest_master_filename": "DLB_00012057.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012058",
+    "filename": "images/DLB_00012058.jpg",
+    "manifest_master_filename": "DLB_00012058.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012059",
+    "filename": "images/DLB_00012059.jpg",
+    "manifest_master_filename": "DLB_00012059.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012060",
+    "filename": "images/DLB_00012060.jpg",
+    "manifest_master_filename": "DLB_00012060.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012061",
+    "filename": "images/DLB_00012061.jpg",
+    "manifest_master_filename": "DLB_00012061.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012062",
+    "filename": "images/DLB_00012062.jpg",
+    "manifest_master_filename": "DLB_00012062.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012063",
+    "filename": "images/DLB_00012063.jpg",
+    "manifest_master_filename": "DLB_00012063.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012064",
+    "filename": "images/DLB_00012064.jpg",
+    "manifest_master_filename": "DLB_00012064.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012065",
+    "filename": "images/DLB_00012065.jpg",
+    "manifest_master_filename": "DLB_00012065.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012066",
+    "filename": "images/DLB_00012066.jpg",
+    "manifest_master_filename": "DLB_00012066.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012067",
+    "filename": "images/DLB_00012067.jpg",
+    "manifest_master_filename": "DLB_00012067.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012068",
+    "filename": "images/DLB_00012068.jpg",
+    "manifest_master_filename": "DLB_00012068.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012069",
+    "filename": "images/DLB_00012069.jpg",
+    "manifest_master_filename": "DLB_00012069.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012070",
+    "filename": "images/DLB_00012070.jpg",
+    "manifest_master_filename": "DLB_00012070.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012071",
+    "filename": "images/DLB_00012071.jpg",
+    "manifest_master_filename": "DLB_00012071.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012072",
+    "filename": "images/DLB_00012072.jpg",
+    "manifest_master_filename": "DLB_00012072.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012073",
+    "filename": "images/DLB_00012073.jpg",
+    "manifest_master_filename": "DLB_00012073.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012074",
+    "filename": "images/DLB_00012074.jpg",
+    "manifest_master_filename": "DLB_00012074.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012075",
+    "filename": "images/DLB_00012075.jpg",
+    "manifest_master_filename": "DLB_00012075.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012076",
+    "filename": "images/DLB_00012076.jpg",
+    "manifest_master_filename": "DLB_00012076.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012077",
+    "filename": "images/DLB_00012077.jpg",
+    "manifest_master_filename": "DLB_00012077.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012078",
+    "filename": "images/DLB_00012078.jpg",
+    "manifest_master_filename": "DLB_00012078.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 13,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012079",
+    "filename": "images/DLB_00012079.jpg",
+    "manifest_master_filename": "DLB_00012079.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012080",
+    "filename": "images/DLB_00012080.jpg",
+    "manifest_master_filename": "DLB_00012080.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012081",
+    "filename": "images/DLB_00012081.jpg",
+    "manifest_master_filename": "DLB_00012081.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012082",
+    "filename": "images/DLB_00012082.jpg",
+    "manifest_master_filename": "DLB_00012082.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012083",
+    "filename": "images/DLB_00012083.jpg",
+    "manifest_master_filename": "DLB_00012083.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012084",
+    "filename": "images/DLB_00012084.jpg",
+    "manifest_master_filename": "DLB_00012084.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012085",
+    "filename": "images/DLB_00012085.jpg",
+    "manifest_master_filename": "DLB_00012085.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012086",
+    "filename": "images/DLB_00012086.jpg",
+    "manifest_master_filename": "DLB_00012086.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012087",
+    "filename": "images/DLB_00012087.jpg",
+    "manifest_master_filename": "DLB_00012087.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012088",
+    "filename": "images/DLB_00012088.jpg",
+    "manifest_master_filename": "DLB_00012088.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012089",
+    "filename": "images/DLB_00012089.jpg",
+    "manifest_master_filename": "DLB_00012089.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 13,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012090",
+    "filename": "images/DLB_00012090.jpg",
+    "manifest_master_filename": "DLB_00012090.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012091",
+    "filename": "images/DLB_00012091.jpg",
+    "manifest_master_filename": "DLB_00012091.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012092",
+    "filename": "images/DLB_00012092.jpg",
+    "manifest_master_filename": "DLB_00012092.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012093",
+    "filename": "images/DLB_00012093.jpg",
+    "manifest_master_filename": "DLB_00012093.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012094",
+    "filename": "images/DLB_00012094.jpg",
+    "manifest_master_filename": "DLB_00012094.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012095",
+    "filename": "images/DLB_00012095.jpg",
+    "manifest_master_filename": "DLB_00012095.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012096",
+    "filename": "images/DLB_00012096.jpg",
+    "manifest_master_filename": "DLB_00012096.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012097",
+    "filename": "images/DLB_00012097.jpg",
+    "manifest_master_filename": "DLB_00012097.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012098",
+    "filename": "images/DLB_00012098.jpg",
+    "manifest_master_filename": "DLB_00012098.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012099",
+    "filename": "images/DLB_00012099.jpg",
+    "manifest_master_filename": "DLB_00012099.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012100",
+    "filename": "images/DLB_00012100.jpg",
+    "manifest_master_filename": "DLB_00012100.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012101",
+    "filename": "images/DLB_00012101.jpg",
+    "manifest_master_filename": "DLB_00012101.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012102",
+    "filename": "images/DLB_00012102.jpg",
+    "manifest_master_filename": "DLB_00012102.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012103",
+    "filename": "images/DLB_00012103.jpg",
+    "manifest_master_filename": "DLB_00012103.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012104",
+    "filename": "images/DLB_00012104.jpg",
+    "manifest_master_filename": "DLB_00012104.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012105",
+    "filename": "images/DLB_00012105.jpg",
+    "manifest_master_filename": "DLB_00012105.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012106",
+    "filename": "images/DLB_00012106.jpg",
+    "manifest_master_filename": "DLB_00012106.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012107",
+    "filename": "images/DLB_00012107.jpg",
+    "manifest_master_filename": "DLB_00012107.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012108",
+    "filename": "images/DLB_00012108.jpg",
+    "manifest_master_filename": "DLB_00012108.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012109",
+    "filename": "images/DLB_00012109.jpg",
+    "manifest_master_filename": "DLB_00012109.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012110",
+    "filename": "images/DLB_00012110.jpg",
+    "manifest_master_filename": "DLB_00012110.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012111",
+    "filename": "images/DLB_00012111.jpg",
+    "manifest_master_filename": "DLB_00012111.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012112",
+    "filename": "images/DLB_00012112.jpg",
+    "manifest_master_filename": "DLB_00012112.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012113",
+    "filename": "images/DLB_00012113.jpg",
+    "manifest_master_filename": "DLB_00012113.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012114",
+    "filename": "images/DLB_00012114.jpg",
+    "manifest_master_filename": "DLB_00012114.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012115",
+    "filename": "images/DLB_00012115.jpg",
+    "manifest_master_filename": "DLB_00012115.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012116",
+    "filename": "images/DLB_00012116.jpg",
+    "manifest_master_filename": "DLB_00012116.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012117",
+    "filename": "images/DLB_00012117.jpg",
+    "manifest_master_filename": "DLB_00012117.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012118",
+    "filename": "images/DLB_00012118.jpg",
+    "manifest_master_filename": "DLB_00012118.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012119",
+    "filename": "images/DLB_00012119.jpg",
+    "manifest_master_filename": "DLB_00012119.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012120",
+    "filename": "images/DLB_00012120.jpg",
+    "manifest_master_filename": "DLB_00012120.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012121",
+    "filename": "images/DLB_00012121.jpg",
+    "manifest_master_filename": "DLB_00012121.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012122",
+    "filename": "images/DLB_00012122.jpg",
+    "manifest_master_filename": "DLB_00012122.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012123",
+    "filename": "images/DLB_00012123.jpg",
+    "manifest_master_filename": "DLB_00012123.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012124",
+    "filename": "images/DLB_00012124.jpg",
+    "manifest_master_filename": "DLB_00012124.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012125",
+    "filename": "images/DLB_00012125.jpg",
+    "manifest_master_filename": "DLB_00012125.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012126",
+    "filename": "images/DLB_00012126.jpg",
+    "manifest_master_filename": "DLB_00012126.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012127",
+    "filename": "images/DLB_00012127.jpg",
+    "manifest_master_filename": "DLB_00012127.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012128",
+    "filename": "images/DLB_00012128.jpg",
+    "manifest_master_filename": "DLB_00012128.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012129",
+    "filename": "images/DLB_00012129.jpg",
+    "manifest_master_filename": "DLB_00012129.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012130",
+    "filename": "images/DLB_00012130.jpg",
+    "manifest_master_filename": "DLB_00012130.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012131",
+    "filename": "images/DLB_00012131.jpg",
+    "manifest_master_filename": "DLB_00012131.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012132",
+    "filename": "images/DLB_00012132.jpg",
+    "manifest_master_filename": "DLB_00012132.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012133",
+    "filename": "images/DLB_00012133.jpg",
+    "manifest_master_filename": "DLB_00012133.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012134",
+    "filename": "images/DLB_00012134.jpg",
+    "manifest_master_filename": "DLB_00012134.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012135",
+    "filename": "images/DLB_00012135.jpg",
+    "manifest_master_filename": "DLB_00012135.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012136",
+    "filename": "images/DLB_00012136.jpg",
+    "manifest_master_filename": "DLB_00012136.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012137",
+    "filename": "images/DLB_00012137.jpg",
+    "manifest_master_filename": "DLB_00012137.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012138",
+    "filename": "images/DLB_00012138.jpg",
+    "manifest_master_filename": "DLB_00012138.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012139",
+    "filename": "images/DLB_00012139.jpg",
+    "manifest_master_filename": "DLB_00012139.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012140",
+    "filename": "images/DLB_00012140.jpg",
+    "manifest_master_filename": "DLB_00012140.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012141",
+    "filename": "images/DLB_00012141.jpg",
+    "manifest_master_filename": "DLB_00012141.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012142",
+    "filename": "images/DLB_00012142.jpg",
+    "manifest_master_filename": "DLB_00012142.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 13,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012143",
+    "filename": "images/DLB_00012143.jpg",
+    "manifest_master_filename": "DLB_00012143.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012144",
+    "filename": "images/DLB_00012144.jpg",
+    "manifest_master_filename": "DLB_00012144.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012145",
+    "filename": "images/DLB_00012145.jpg",
+    "manifest_master_filename": "DLB_00012145.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012146",
+    "filename": "images/DLB_00012146.jpg",
+    "manifest_master_filename": "DLB_00012146.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012147",
+    "filename": "images/DLB_00012147.jpg",
+    "manifest_master_filename": "DLB_00012147.jpg",
+    "mask_preset": "none",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012148",
+    "filename": "images/DLB_00012148.jpg",
+    "manifest_master_filename": "DLB_00012148.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012149",
+    "filename": "images/DLB_00012149.jpg",
+    "manifest_master_filename": "DLB_00012149.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012150",
+    "filename": "images/DLB_00012150.jpg",
+    "manifest_master_filename": "DLB_00012150.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012151",
+    "filename": "images/DLB_00012151.jpg",
+    "manifest_master_filename": "DLB_00012151.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012152",
+    "filename": "images/DLB_00012152.jpg",
+    "manifest_master_filename": "DLB_00012152.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012153",
+    "filename": "images/DLB_00012153.jpg",
+    "manifest_master_filename": "DLB_00012153.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012154",
+    "filename": "images/DLB_00012154.jpg",
+    "manifest_master_filename": "DLB_00012154.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012155",
+    "filename": "images/DLB_00012155.jpg",
+    "manifest_master_filename": "DLB_00012155.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012156",
+    "filename": "images/DLB_00012156.jpg",
+    "manifest_master_filename": "DLB_00012156.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012157",
+    "filename": "images/DLB_00012157.jpg",
+    "manifest_master_filename": "DLB_00012157.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 13,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012158",
+    "filename": "images/DLB_00012158.jpg",
+    "manifest_master_filename": "DLB_00012158.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012159",
+    "filename": "images/DLB_00012159.jpg",
+    "manifest_master_filename": "DLB_00012159.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012160",
+    "filename": "images/DLB_00012160.jpg",
+    "manifest_master_filename": "DLB_00012160.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012161",
+    "filename": "images/DLB_00012161.jpg",
+    "manifest_master_filename": "DLB_00012161.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012162",
+    "filename": "images/DLB_00012162.jpg",
+    "manifest_master_filename": "DLB_00012162.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012163",
+    "filename": "images/DLB_00012163.jpg",
+    "manifest_master_filename": "DLB_00012163.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012164",
+    "filename": "images/DLB_00012164.jpg",
+    "manifest_master_filename": "DLB_00012164.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012165",
+    "filename": "images/DLB_00012165.jpg",
+    "manifest_master_filename": "DLB_00012165.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012166",
+    "filename": "images/DLB_00012166.jpg",
+    "manifest_master_filename": "DLB_00012166.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012167",
+    "filename": "images/DLB_00012167.jpg",
+    "manifest_master_filename": "DLB_00012167.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012168",
+    "filename": "images/DLB_00012168.jpg",
+    "manifest_master_filename": "DLB_00012168.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012169",
+    "filename": "images/DLB_00012169.jpg",
+    "manifest_master_filename": "DLB_00012169.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012170",
+    "filename": "images/DLB_00012170.jpg",
+    "manifest_master_filename": "DLB_00012170.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012171",
+    "filename": "images/DLB_00012171.jpg",
+    "manifest_master_filename": "DLB_00012171.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012172",
+    "filename": "images/DLB_00012172.jpg",
+    "manifest_master_filename": "DLB_00012172.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012173",
+    "filename": "images/DLB_00012173.jpg",
+    "manifest_master_filename": "DLB_00012173.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012174",
+    "filename": "images/DLB_00012174.jpg",
+    "manifest_master_filename": "DLB_00012174.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012175",
+    "filename": "images/DLB_00012175.jpg",
+    "manifest_master_filename": "DLB_00012175.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012176",
+    "filename": "images/DLB_00012176.jpg",
+    "manifest_master_filename": "DLB_00012176.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012177",
+    "filename": "images/DLB_00012177.jpg",
+    "manifest_master_filename": "DLB_00012177.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012178",
+    "filename": "images/DLB_00012178.jpg",
+    "manifest_master_filename": "DLB_00012178.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012179",
+    "filename": "images/DLB_00012179.jpg",
+    "manifest_master_filename": "DLB_00012179.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012180",
+    "filename": "images/DLB_00012180.jpg",
+    "manifest_master_filename": "DLB_00012180.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012181",
+    "filename": "images/DLB_00012181.jpg",
+    "manifest_master_filename": "DLB_00012181.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012182",
+    "filename": "images/DLB_00012182.jpg",
+    "manifest_master_filename": "DLB_00012182.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012183",
+    "filename": "images/DLB_00012183.jpg",
+    "manifest_master_filename": "DLB_00012183.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012184",
+    "filename": "images/DLB_00012184.jpg",
+    "manifest_master_filename": "DLB_00012184.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012185",
+    "filename": "images/DLB_00012185.jpg",
+    "manifest_master_filename": "DLB_00012185.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012186",
+    "filename": "images/DLB_00012186.jpg",
+    "manifest_master_filename": "DLB_00012186.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012187",
+    "filename": "images/DLB_00012187.jpg",
+    "manifest_master_filename": "DLB_00012187.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012188",
+    "filename": "images/DLB_00012188.jpg",
+    "manifest_master_filename": "DLB_00012188.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012189",
+    "filename": "images/DLB_00012189.jpg",
+    "manifest_master_filename": "DLB_00012189.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012190",
+    "filename": "images/DLB_00012190.jpg",
+    "manifest_master_filename": "DLB_00012190.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 16,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012191",
+    "filename": "images/DLB_00012191.jpg",
+    "manifest_master_filename": "DLB_00012191.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012192",
+    "filename": "images/DLB_00012192.jpg",
+    "manifest_master_filename": "DLB_00012192.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012193",
+    "filename": "images/DLB_00012193.jpg",
+    "manifest_master_filename": "DLB_00012193.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012194",
+    "filename": "images/DLB_00012194.jpg",
+    "manifest_master_filename": "DLB_00012194.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012195",
+    "filename": "images/DLB_00012195.jpg",
+    "manifest_master_filename": "DLB_00012195.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012196",
+    "filename": "images/DLB_00012196.jpg",
+    "manifest_master_filename": "DLB_00012196.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012197",
+    "filename": "images/DLB_00012197.jpg",
+    "manifest_master_filename": "DLB_00012197.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012198",
+    "filename": "images/DLB_00012198.jpg",
+    "manifest_master_filename": "DLB_00012198.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012199",
+    "filename": "images/DLB_00012199.jpg",
+    "manifest_master_filename": "DLB_00012199.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012200",
+    "filename": "images/DLB_00012200.jpg",
+    "manifest_master_filename": "DLB_00012200.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012201",
+    "filename": "images/DLB_00012201.jpg",
+    "manifest_master_filename": "DLB_00012201.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012202",
+    "filename": "images/DLB_00012202.jpg",
+    "manifest_master_filename": "DLB_00012202.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012203",
+    "filename": "images/DLB_00012203.jpg",
+    "manifest_master_filename": "DLB_00012203.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012204",
+    "filename": "images/DLB_00012204.jpg",
+    "manifest_master_filename": "DLB_00012204.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012205",
+    "filename": "images/DLB_00012205.jpg",
+    "manifest_master_filename": "DLB_00012205.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012206",
+    "filename": "images/DLB_00012206.jpg",
+    "manifest_master_filename": "DLB_00012206.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012207",
+    "filename": "images/DLB_00012207.jpg",
+    "manifest_master_filename": "DLB_00012207.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012208",
+    "filename": "images/DLB_00012208.jpg",
+    "manifest_master_filename": "DLB_00012208.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012209",
+    "filename": "images/DLB_00012209.jpg",
+    "manifest_master_filename": "DLB_00012209.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012210",
+    "filename": "images/DLB_00012210.jpg",
+    "manifest_master_filename": "DLB_00012210.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012211",
+    "filename": "images/DLB_00012211.jpg",
+    "manifest_master_filename": "DLB_00012211.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012212",
+    "filename": "images/DLB_00012212.jpg",
+    "manifest_master_filename": "DLB_00012212.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012213",
+    "filename": "images/DLB_00012213.jpg",
+    "manifest_master_filename": "DLB_00012213.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012214",
+    "filename": "images/DLB_00012214.jpg",
+    "manifest_master_filename": "DLB_00012214.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012215",
+    "filename": "images/DLB_00012215.jpg",
+    "manifest_master_filename": "DLB_00012215.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012216",
+    "filename": "images/DLB_00012216.jpg",
+    "manifest_master_filename": "DLB_00012216.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012217",
+    "filename": "images/DLB_00012217.jpg",
+    "manifest_master_filename": "DLB_00012217.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012218",
+    "filename": "images/DLB_00012218.jpg",
+    "manifest_master_filename": "DLB_00012218.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012219",
+    "filename": "images/DLB_00012219.jpg",
+    "manifest_master_filename": "DLB_00012219.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012220",
+    "filename": "images/DLB_00012220.jpg",
+    "manifest_master_filename": "DLB_00012220.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012221",
+    "filename": "images/DLB_00012221.jpg",
+    "manifest_master_filename": "DLB_00012221.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012222",
+    "filename": "images/DLB_00012222.jpg",
+    "manifest_master_filename": "DLB_00012222.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012223",
+    "filename": "images/DLB_00012223.jpg",
+    "manifest_master_filename": "DLB_00012223.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012224",
+    "filename": "images/DLB_00012224.jpg",
+    "manifest_master_filename": "DLB_00012224.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012225",
+    "filename": "images/DLB_00012225.jpg",
+    "manifest_master_filename": "DLB_00012225.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012226",
+    "filename": "images/DLB_00012226.jpg",
+    "manifest_master_filename": "DLB_00012226.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012227",
+    "filename": "images/DLB_00012227.jpg",
+    "manifest_master_filename": "DLB_00012227.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012228",
+    "filename": "images/DLB_00012228.jpg",
+    "manifest_master_filename": "DLB_00012228.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012229",
+    "filename": "images/DLB_00012229.jpg",
+    "manifest_master_filename": "DLB_00012229.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012230",
+    "filename": "images/DLB_00012230.jpg",
+    "manifest_master_filename": "DLB_00012230.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012231",
+    "filename": "images/DLB_00012231.jpg",
+    "manifest_master_filename": "DLB_00012231.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012232",
+    "filename": "images/DLB_00012232.jpg",
+    "manifest_master_filename": "DLB_00012232.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012233",
+    "filename": "images/DLB_00012233.jpg",
+    "manifest_master_filename": "DLB_00012233.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012234",
+    "filename": "images/DLB_00012234.jpg",
+    "manifest_master_filename": "DLB_00012234.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012235",
+    "filename": "images/DLB_00012235.jpg",
+    "manifest_master_filename": "DLB_00012235.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012236",
+    "filename": "images/DLB_00012236.jpg",
+    "manifest_master_filename": "DLB_00012236.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012237",
+    "filename": "images/DLB_00012237.jpg",
+    "manifest_master_filename": "DLB_00012237.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012238",
+    "filename": "images/DLB_00012238.jpg",
+    "manifest_master_filename": "DLB_00012238.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012239",
+    "filename": "images/DLB_00012239.jpg",
+    "manifest_master_filename": "DLB_00012239.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012240",
+    "filename": "images/DLB_00012240.jpg",
+    "manifest_master_filename": "DLB_00012240.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012241",
+    "filename": "images/DLB_00012241.jpg",
+    "manifest_master_filename": "DLB_00012241.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012242",
+    "filename": "images/DLB_00012242.jpg",
+    "manifest_master_filename": "DLB_00012242.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012243",
+    "filename": "images/DLB_00012243.jpg",
+    "manifest_master_filename": "DLB_00012243.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012244",
+    "filename": "images/DLB_00012244.jpg",
+    "manifest_master_filename": "DLB_00012244.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012245",
+    "filename": "images/DLB_00012245.jpg",
+    "manifest_master_filename": "DLB_00012245.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012246",
+    "filename": "images/DLB_00012246.jpg",
+    "manifest_master_filename": "DLB_00012246.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012247",
+    "filename": "images/DLB_00012247.jpg",
+    "manifest_master_filename": "DLB_00012247.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012248",
+    "filename": "images/DLB_00012248.jpg",
+    "manifest_master_filename": "DLB_00012248.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012249",
+    "filename": "images/DLB_00012249.jpg",
+    "manifest_master_filename": "DLB_00012249.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012250",
+    "filename": "images/DLB_00012250.jpg",
+    "manifest_master_filename": "DLB_00012250.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012251",
+    "filename": "images/DLB_00012251.jpg",
+    "manifest_master_filename": "DLB_00012251.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012252",
+    "filename": "images/DLB_00012252.jpg",
+    "manifest_master_filename": "DLB_00012252.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012253",
+    "filename": "images/DLB_00012253.jpg",
+    "manifest_master_filename": "DLB_00012253.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012254",
+    "filename": "images/DLB_00012254.jpg",
+    "manifest_master_filename": "DLB_00012254.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012255",
+    "filename": "images/DLB_00012255.jpg",
+    "manifest_master_filename": "DLB_00012255.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012256",
+    "filename": "images/DLB_00012256.jpg",
+    "manifest_master_filename": "DLB_00012256.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012257",
+    "filename": "images/DLB_00012257.jpg",
+    "manifest_master_filename": "DLB_00012257.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012258",
+    "filename": "images/DLB_00012258.jpg",
+    "manifest_master_filename": "DLB_00012258.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012259",
+    "filename": "images/DLB_00012259.jpg",
+    "manifest_master_filename": "DLB_00012259.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012260",
+    "filename": "images/DLB_00012260.jpg",
+    "manifest_master_filename": "DLB_00012260.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012261",
+    "filename": "images/DLB_00012261.jpg",
+    "manifest_master_filename": "DLB_00012261.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012262",
+    "filename": "images/DLB_00012262.jpg",
+    "manifest_master_filename": "DLB_00012262.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012263",
+    "filename": "images/DLB_00012263.jpg",
+    "manifest_master_filename": "DLB_00012263.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012264",
+    "filename": "images/DLB_00012264.jpg",
+    "manifest_master_filename": "DLB_00012264.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012265",
+    "filename": "images/DLB_00012265.jpg",
+    "manifest_master_filename": "DLB_00012265.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012266",
+    "filename": "images/DLB_00012266.jpg",
+    "manifest_master_filename": "DLB_00012266.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012267",
+    "filename": "images/DLB_00012267.jpg",
+    "manifest_master_filename": "DLB_00012267.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012268",
+    "filename": "images/DLB_00012268.jpg",
+    "manifest_master_filename": "DLB_00012268.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012269",
+    "filename": "images/DLB_00012269.jpg",
+    "manifest_master_filename": "DLB_00012269.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012270",
+    "filename": "images/DLB_00012270.jpg",
+    "manifest_master_filename": "DLB_00012270.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012271",
+    "filename": "images/DLB_00012271.jpg",
+    "manifest_master_filename": "DLB_00012271.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012272",
+    "filename": "images/DLB_00012272.jpg",
+    "manifest_master_filename": "DLB_00012272.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012273",
+    "filename": "images/DLB_00012273.jpg",
+    "manifest_master_filename": "DLB_00012273.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012274",
+    "filename": "images/DLB_00012274.jpg",
+    "manifest_master_filename": "DLB_00012274.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012275",
+    "filename": "images/DLB_00012275.jpg",
+    "manifest_master_filename": "DLB_00012275.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012276",
+    "filename": "images/DLB_00012276.jpg",
+    "manifest_master_filename": "DLB_00012276.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012277",
+    "filename": "images/DLB_00012277.jpg",
+    "manifest_master_filename": "DLB_00012277.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012278",
+    "filename": "images/DLB_00012278.jpg",
+    "manifest_master_filename": "DLB_00012278.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012279",
+    "filename": "images/DLB_00012279.jpg",
+    "manifest_master_filename": "DLB_00012279.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012280",
+    "filename": "images/DLB_00012280.jpg",
+    "manifest_master_filename": "DLB_00012280.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 30,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012281",
+    "filename": "images/DLB_00012281.jpg",
+    "manifest_master_filename": "DLB_00012281.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012282",
+    "filename": "images/DLB_00012282.jpg",
+    "manifest_master_filename": "DLB_00012282.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012283",
+    "filename": "images/DLB_00012283.jpg",
+    "manifest_master_filename": "DLB_00012283.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012284",
+    "filename": "images/DLB_00012284.jpg",
+    "manifest_master_filename": "DLB_00012284.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012285",
+    "filename": "images/DLB_00012285.jpg",
+    "manifest_master_filename": "DLB_00012285.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012286",
+    "filename": "images/DLB_00012286.jpg",
+    "manifest_master_filename": "DLB_00012286.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012287",
+    "filename": "images/DLB_00012287.jpg",
+    "manifest_master_filename": "DLB_00012287.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012288",
+    "filename": "images/DLB_00012288.jpg",
+    "manifest_master_filename": "DLB_00012288.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012289",
+    "filename": "images/DLB_00012289.jpg",
+    "manifest_master_filename": "DLB_00012289.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012290",
+    "filename": "images/DLB_00012290.jpg",
+    "manifest_master_filename": "DLB_00012290.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012291",
+    "filename": "images/DLB_00012291.jpg",
+    "manifest_master_filename": "DLB_00012291.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012292",
+    "filename": "images/DLB_00012292.jpg",
+    "manifest_master_filename": "DLB_00012292.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012293",
+    "filename": "images/DLB_00012293.jpg",
+    "manifest_master_filename": "DLB_00012293.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012294",
+    "filename": "images/DLB_00012294.jpg",
+    "manifest_master_filename": "DLB_00012294.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012295",
+    "filename": "images/DLB_00012295.jpg",
+    "manifest_master_filename": "DLB_00012295.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012296",
+    "filename": "images/DLB_00012296.jpg",
+    "manifest_master_filename": "DLB_00012296.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012297",
+    "filename": "images/DLB_00012297.jpg",
+    "manifest_master_filename": "DLB_00012297.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012298",
+    "filename": "images/DLB_00012298.jpg",
+    "manifest_master_filename": "DLB_00012298.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012299",
+    "filename": "images/DLB_00012299.jpg",
+    "manifest_master_filename": "DLB_00012299.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012300",
+    "filename": "images/DLB_00012300.jpg",
+    "manifest_master_filename": "DLB_00012300.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012301",
+    "filename": "images/DLB_00012301.jpg",
+    "manifest_master_filename": "DLB_00012301.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012302",
+    "filename": "images/DLB_00012302.jpg",
+    "manifest_master_filename": "DLB_00012302.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012303",
+    "filename": "images/DLB_00012303.jpg",
+    "manifest_master_filename": "DLB_00012303.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012304",
+    "filename": "images/DLB_00012304.jpg",
+    "manifest_master_filename": "DLB_00012304.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012305",
+    "filename": "images/DLB_00012305.jpg",
+    "manifest_master_filename": "DLB_00012305.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012306",
+    "filename": "images/DLB_00012306.jpg",
+    "manifest_master_filename": "DLB_00012306.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012307",
+    "filename": "images/DLB_00012307.jpg",
+    "manifest_master_filename": "DLB_00012307.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012308",
+    "filename": "images/DLB_00012308.jpg",
+    "manifest_master_filename": "DLB_00012308.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012309",
+    "filename": "images/DLB_00012309.jpg",
+    "manifest_master_filename": "DLB_00012309.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012310",
+    "filename": "images/DLB_00012310.jpg",
+    "manifest_master_filename": "DLB_00012310.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012311",
+    "filename": "images/DLB_00012311.jpg",
+    "manifest_master_filename": "DLB_00012311.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012312",
+    "filename": "images/DLB_00012312.jpg",
+    "manifest_master_filename": "DLB_00012312.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012313",
+    "filename": "images/DLB_00012313.jpg",
+    "manifest_master_filename": "DLB_00012313.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012314",
+    "filename": "images/DLB_00012314.jpg",
+    "manifest_master_filename": "DLB_00012314.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012315",
+    "filename": "images/DLB_00012315.jpg",
+    "manifest_master_filename": "DLB_00012315.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012316",
+    "filename": "images/DLB_00012316.jpg",
+    "manifest_master_filename": "DLB_00012316.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012317",
+    "filename": "images/DLB_00012317.jpg",
+    "manifest_master_filename": "DLB_00012317.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012318",
+    "filename": "images/DLB_00012318.jpg",
+    "manifest_master_filename": "DLB_00012318.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012319",
+    "filename": "images/DLB_00012319.jpg",
+    "manifest_master_filename": "DLB_00012319.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012320",
+    "filename": "images/DLB_00012320.jpg",
+    "manifest_master_filename": "DLB_00012320.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012321",
+    "filename": "images/DLB_00012321.jpg",
+    "manifest_master_filename": "DLB_00012321.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012322",
+    "filename": "images/DLB_00012322.jpg",
+    "manifest_master_filename": "DLB_00012322.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012323",
+    "filename": "images/DLB_00012323.jpg",
+    "manifest_master_filename": "DLB_00012323.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012324",
+    "filename": "images/DLB_00012324.jpg",
+    "manifest_master_filename": "DLB_00012324.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012325",
+    "filename": "images/DLB_00012325.jpg",
+    "manifest_master_filename": "DLB_00012325.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012326",
+    "filename": "images/DLB_00012326.jpg",
+    "manifest_master_filename": "DLB_00012326.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012327",
+    "filename": "images/DLB_00012327.jpg",
+    "manifest_master_filename": "DLB_00012327.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012328",
+    "filename": "images/DLB_00012328.jpg",
+    "manifest_master_filename": "DLB_00012328.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012329",
+    "filename": "images/DLB_00012329.jpg",
+    "manifest_master_filename": "DLB_00012329.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012330",
+    "filename": "images/DLB_00012330.jpg",
+    "manifest_master_filename": "DLB_00012330.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 0,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012331",
+    "filename": "images/DLB_00012331.jpg",
+    "manifest_master_filename": "DLB_00012331.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 35,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012332",
+    "filename": "images/DLB_00012332.jpg",
+    "manifest_master_filename": "DLB_00012332.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012333",
+    "filename": "images/DLB_00012333.jpg",
+    "manifest_master_filename": "DLB_00012333.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012334",
+    "filename": "images/DLB_00012334.jpg",
+    "manifest_master_filename": "DLB_00012334.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012335",
+    "filename": "images/DLB_00012335.jpg",
+    "manifest_master_filename": "DLB_00012335.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012336",
+    "filename": "images/DLB_00012336.jpg",
+    "manifest_master_filename": "DLB_00012336.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012337",
+    "filename": "images/DLB_00012337.jpg",
+    "manifest_master_filename": "DLB_00012337.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012338",
+    "filename": "images/DLB_00012338.jpg",
+    "manifest_master_filename": "DLB_00012338.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012339",
+    "filename": "images/DLB_00012339.jpg",
+    "manifest_master_filename": "DLB_00012339.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012340",
+    "filename": "images/DLB_00012340.jpg",
+    "manifest_master_filename": "DLB_00012340.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012341",
+    "filename": "images/DLB_00012341.jpg",
+    "manifest_master_filename": "DLB_00012341.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012342",
+    "filename": "images/DLB_00012342.jpg",
+    "manifest_master_filename": "DLB_00012342.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012343",
+    "filename": "images/DLB_00012343.jpg",
+    "manifest_master_filename": "DLB_00012343.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012344",
+    "filename": "images/DLB_00012344.jpg",
+    "manifest_master_filename": "DLB_00012344.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012345",
+    "filename": "images/DLB_00012345.jpg",
+    "manifest_master_filename": "DLB_00012345.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012346",
+    "filename": "images/DLB_00012346.jpg",
+    "manifest_master_filename": "DLB_00012346.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012347",
+    "filename": "images/DLB_00012347.jpg",
+    "manifest_master_filename": "DLB_00012347.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012348",
+    "filename": "images/DLB_00012348.jpg",
+    "manifest_master_filename": "DLB_00012348.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012349",
+    "filename": "images/DLB_00012349.jpg",
+    "manifest_master_filename": "DLB_00012349.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012350",
+    "filename": "images/DLB_00012350.jpg",
+    "manifest_master_filename": "DLB_00012350.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012351",
+    "filename": "images/DLB_00012351.jpg",
+    "manifest_master_filename": "DLB_00012351.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012352",
+    "filename": "images/DLB_00012352.jpg",
+    "manifest_master_filename": "DLB_00012352.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012353",
+    "filename": "images/DLB_00012353.jpg",
+    "manifest_master_filename": "DLB_00012353.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012354",
+    "filename": "images/DLB_00012354.jpg",
+    "manifest_master_filename": "DLB_00012354.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012355",
+    "filename": "images/DLB_00012355.jpg",
+    "manifest_master_filename": "DLB_00012355.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012356",
+    "filename": "images/DLB_00012356.jpg",
+    "manifest_master_filename": "DLB_00012356.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012357",
+    "filename": "images/DLB_00012357.jpg",
+    "manifest_master_filename": "DLB_00012357.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012358",
+    "filename": "images/DLB_00012358.jpg",
+    "manifest_master_filename": "DLB_00012358.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012359",
+    "filename": "images/DLB_00012359.jpg",
+    "manifest_master_filename": "DLB_00012359.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012360",
+    "filename": "images/DLB_00012360.jpg",
+    "manifest_master_filename": "DLB_00012360.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012361",
+    "filename": "images/DLB_00012361.jpg",
+    "manifest_master_filename": "DLB_00012361.jpg",
+    "mask_preset": "bottom",
+    "right_mask_pct": 18,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012362",
+    "filename": "images/DLB_00012362.jpg",
+    "manifest_master_filename": "DLB_00012362.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  },
+  {
+    "image_id": "DLB_00012363",
+    "filename": "images/DLB_00012363.jpg",
+    "manifest_master_filename": "DLB_00012363.jpg",
+    "mask_preset": "right",
+    "right_mask_pct": 14,
+    "bottom_mask_pct": 20,
+    "mask_color": "neutral_gray",
+    "annotation_complete": "YES"
+  }
+]
