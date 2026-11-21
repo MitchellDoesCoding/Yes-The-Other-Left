@@ -1,0 +1,31 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# DFTB Skin Deep images and derived image files must never be committed.
+data/raw/
+data/private/
+data/masked_cache/
+*_masked.png
+*_masked.jpg
+
+# Credentials and local configuration.
+.env
+config.local.toml
+
+# Generated inference and report artifacts.
+runs/
+reports/
+
+# Internal validation and release-preparation utilities are retained locally.
+scripts/analyze_masking_validation.py
+scripts/build_masking_validation_sample.py
+scripts/import_legacy_csv.py
+scripts/run_internvl2b_full_masking_validation.sh
+scripts/run_internvl2b_masking_validation.sh
+scripts/run_paired_masking_validation.py
